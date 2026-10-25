@@ -30,3 +30,4 @@ This analysis provides data-driven answers to the following business questions:
 
 ---
 ✍️ **Developed by:** [Tuba Özkaya](https://github.com)  
+📬 **Connect with me:** https://www.linkedin.com/in/tuba-ozkaya-620890271/?isSelfProfile=true
